@@ -1,2 +1,3 @@
-# rec-sys-class
-OOP approach to implementing recommender systems
+Implementing machine learning algorithms from scratch. Practice.
+
+By: James Soh
